@@ -27,7 +27,7 @@ Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interf
 git clone https://github.com/christofer-usuario/clone-airbnb.git
 ```
 2. Inicie o arquivo index.html com a extensão Live Server no VScode para uma experiência fiel ao que foi realizado.
-   <p>![image](https://github.com/user-attachments/assets/cb20f841-193c-4400-b246-e673699c5d41)</p>
+   ![image](https://github.com/user-attachments/assets/cb20f841-193c-4400-b246-e673699c5d41) <br>
    ![image](https://github.com/user-attachments/assets/06cc9c56-0cf1-4b48-91b4-6a98e1f1babb)
    
 ## Lições Aprendidas
