@@ -22,7 +22,7 @@ Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interf
 
 ## Como Rodar o Projeto
 
-1. Clone o repositório:
+1. Clone o repositório: <br>
 Informe o repositorio no terminal do seu VScode conforme abaixo.
 ```
 git clone https://github.com/christofer-usuario/clone-airbnb.git
