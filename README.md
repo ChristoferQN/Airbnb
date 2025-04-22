@@ -28,7 +28,7 @@ git clone https://github.com/christofer-usuario/clone-airbnb.git
 ```
 2. Inicie o arquivo index.html com a extensão Live Server no VScode para uma experiência fiel ao que foi realizado.
    ![image](https://github.com/user-attachments/assets/cb20f841-193c-4400-b246-e673699c5d41)
-   ![image](https://github.com/user-attachments/assets/80850be7-c3fb-4849-8557-3d75ddaa92dd)
+   ![image](https://github.com/user-attachments/assets/06cc9c56-0cf1-4b48-91b4-6a98e1f1babb)
 
 ## Lições Aprendidas
     
