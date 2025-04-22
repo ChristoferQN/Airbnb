@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bfdf1830-c4bc-41f5-a677-f913734c03a8)# Clone Airbnb - Projeto de Prática
+# Clone Airbnb - Projeto de Prática
 
 Projeto de estudo para desenvolver habilidades de HTML5 e CSS3, recriando a interface principal do site do Airbnb.
 
